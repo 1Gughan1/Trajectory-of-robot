@@ -9,6 +9,7 @@ for i = 2:n+1
     a(i) = input('Enter the between values: ');
 end
 
+
 disp(a)
 
 tt = [];
